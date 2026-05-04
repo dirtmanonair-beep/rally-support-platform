@@ -1,0 +1,18 @@
+{
+  "hero": {
+    "badge": "랠리 & 더트 트라이얼",
+    "title1": "당신의 응원이",
+    "title2": "선수의 힘이 됩니다",
+    "subtitle": "Your Support Fuels Their Passion",
+    "description": "랠리・더트 트라이얼 선수를 소액부터 응원할 수 있는 플랫폼",
+    "cta1": "선수 찾기",
+    "cta2": "응원 방법 보기"
+  },
+  "steps": {
+    "title": "3단계로 응원할 수 있어요",
+    "step1": { "title": "선수 찾기", "desc": "응원하고 싶은 선수를 찾아보세요" },
+    "step2": { "title": "응원 방법 선택", "desc": "일회성(¥500~) 또는 월정액 응원" },
+    "step3": { "title": "응원 시작!", "desc": "Stripe 안전 결제로 완료" }
+  },
+  "footer": "© 2025 Rally Support Platform. All rights reserved."
+}
