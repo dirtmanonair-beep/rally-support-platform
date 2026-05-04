@@ -1,0 +1,18 @@
+{
+  "hero": {
+    "badge": "RALLY & DIRT TRIAL",
+    "title1": "Your Support",
+    "title2": "Fuels Their Passion",
+    "subtitle": "あなたの応援が、選手の力になる",
+    "description": "Support rally and dirt trial drivers, starting from just ¥500",
+    "cta1": "Find Drivers",
+    "cta2": "How to Support"
+  },
+  "steps": {
+    "title": "3 Simple Steps to Support",
+    "step1": { "title": "Find a Driver", "desc": "Browse and find your favorite driver" },
+    "step2": { "title": "Choose a Plan", "desc": "One-time (¥500+) or monthly support" },
+    "step3": { "title": "Start Supporting!", "desc": "Complete payment securely via Stripe" }
+  },
+  "footer": "© 2025 Rally Support Platform. All rights reserved."
+}
