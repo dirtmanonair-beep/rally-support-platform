@@ -1,0 +1,18 @@
+{
+  "hero": {
+    "badge": "RALLY & DIRT TRIAL",
+    "title1": "あなたの応援が、",
+    "title2": "選手の力になる",
+    "subtitle": "Your Support Fuels Their Passion",
+    "description": "ラリー・ダートトライアル選手を、少額から応援できるプラットフォーム",
+    "cta1": "選手を探す",
+    "cta2": "支援の仕方を見る"
+  },
+  "steps": {
+    "title": "3ステップで応援できる",
+    "step1": { "title": "選手を探す", "desc": "応援したい選手を見つけよう" },
+    "step2": { "title": "支援方法を選ぶ", "desc": "単発（¥500〜）または月額支援" },
+    "step3": { "title": "応援開始！", "desc": "Stripeの安全な決済で完了" }
+  },
+  "footer": "© 2025 Rally Support Platform. All rights reserved."
+}
