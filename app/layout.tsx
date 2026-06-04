@@ -1,26 +1,12 @@
-import {NextIntlClientProvider} from 'next-intl';
-import {getMessages} from 'next-intl/server';
-
-export const metadata = {
+import type { Metadata } from 'next';
+export const metadata: Metadata = {
   title: 'Rally Support Platform',
   description: 'ラリー・ダートトライアル選手を応援するプラットフォーム',
-}
-
-export default async function RootLayout({
-  children,
-  params: {locale}
-}: {
-  children: React.ReactNode,
-  params: {locale: string}
-}) {
-  const messages = await getMessages();
+};
+export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang={locale}>
-      <body>
-        <NextIntlClientProvider messages={messages}>
-          {children}
-        </NextIntlClientProvider>
-      </body>
+    <html lang="ja">
+      <body style={{ margin: 0, padding: 0 }}>{children}</body>
     </html>
-  )
+  );
 }
